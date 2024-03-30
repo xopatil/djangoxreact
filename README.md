@@ -1,0 +1,2 @@
+# djangoxreact
+NOTES TAKING APP
